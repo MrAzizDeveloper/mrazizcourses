@@ -1,0 +1,2 @@
+# mrazizcourses
+bepul kurslar platformasi
